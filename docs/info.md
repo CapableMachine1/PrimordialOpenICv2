@@ -19,4 +19,4 @@ can be monitored from outputs C2 and C1.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDs may be used to test the outputs. 
